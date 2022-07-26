@@ -10,35 +10,37 @@ global.autoReadAll = true
 //Silahkan sesuaikan sendiri ya
 
 // Ganti Sewajarnya
-global.owner = ['6287734910547']
-global.pengguna = '𝙺𝚢𝚊𝚖𝚒𝚅𝚢𝚗'
+global.owner = ['628981614707']
+global.pengguna = 'MFX'
 global.premium = []
 global.author = '𝙺𝚢𝚊𝚖𝚒𝚅𝚢𝚗'
-global.pemilik = ['6287734910547'] 
-global.ownernomer = '6287734910547'
+global.pemilik = ['628981614707'] 
+global.ownernomer = '628981614707'
 global.ownername = '𝙺𝚢𝚊𝚖𝚒𝚅𝚢𝚗'
 global.botname = '𝙆𝙪𝙧𝙪𝙢𝙞 - 𝙈𝘿'
 global.tengah = "									"
 global.Prefix = 'Multi Prefix'
-global.meki = '6287734910547'
+global.meki = '628981614707'
 global.footer = '𝙆𝙪𝙧𝙪𝙢𝙞 - 𝙈𝘿'
 //Isi Sesuai Namalu Buat Tambah Tqtq
-global.namalu = 'Alvst' //Ubah nama kalian buat nambahin di tqtq bot
-global.footer1 = 'Jangan Spam Bot.'
+global.namalu = 'MFX' //Ubah nama kalian buat nambahin di tqtq bot
+global.footer1 = 'Jangan Spam Bot Tod.'
 global.footer2 = '*Jika Menemukan Bug Lapor Ke Owner Su.*'
-global.yt = 'https://youtube.com/channel/UCNBiajdnzMs8KJE19bf-OXA' //Jika tidak ada yt jangan diubah buat promosi owner xixixixi
-global.ig = 'https://instagram.com/_alv.stn'
-global.gc = 'https://chat.whatsapp.com/IJ5ull4HXaY647D6ACw4kj' //join ya kadang kadang pada eval bot disitu lumayan dapet fitur baru wkwkwk
-global.dana = '087734910547'
-global.gopay = '0000'
-global.wame = 'wa.me/6287734910547'
-global.email = 'alvinsutanto10@gmail.com'
+global.yt = 'owner ga punya yt :v' //Jika tidak ada yt jangan diubah buat promosi owner xixixixi
+global.ig = 'ig owner private :v'
+global.gc = 'MULTI GRUB' //join ya kadang kadang pada eval bot disitu lumayan dapet fitur baru wkwkwk
+global.dana = '08981614707'
+global.gopay = '08981614707'
+
+global.wame = 'wa.me/628981614707'
+global.email = '-'
 global.region = 'Indonesia'
 global.link = 'nekopoi.care'
-global.sc = 'https://bit.ly/SubscribeFLOB'
-global.packname = '"{\nAuthor: 𝙺𝚢𝚊𝚖𝚒𝚅𝚢𝚗"\n"Bot Number: 6285848453523"\n"Bot Name:𝙆𝙪𝙧𝙪𝙢𝙞 - 𝙈𝘿"\n"Instagram: @_alv.stn"\n}' 
+global.sc = '-'
+global.packname = '"{\nAuthor: MFX"\n"Bot Number: -"\n"Bot Name:𝙆𝙪𝙧𝙪𝙢𝙞 - 𝙈𝘿"\n"Instagram: "\n}' 
 global.author = '𝙺𝚢𝚊𝚖𝚒𝚅𝚢𝚗' 
-global.sessionName = 'session'
+global.sessionName = 'session'global.sessionName = 'session'
+
 global.prefa = ['#','!','/','']
 global.sp = '❑ ' 
 global.mess = {
