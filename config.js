@@ -12,16 +12,16 @@ global.autoReadAll = true
 // Ganti Sewajarnya
 global.owner = ['628981614707']
 global.pengguna = 'MFX'
-global.premium = []
-global.author = '𝙺𝚢𝚊𝚖𝚒𝚅𝚢𝚗'
+global.premium = [628981614707]
+global.author = 'MFX'
 global.pemilik = ['628981614707'] 
 global.ownernomer = '628981614707'
-global.ownername = '𝙺𝚢𝚊𝚖𝚒𝚅𝚢𝚗'
-global.botname = '𝙆𝙪𝙧𝙪𝙢𝙞 - 𝙈𝘿'
+global.ownername = 'MFX'
+global.botname = 'MFC - MD'
 global.tengah = "									"
 global.Prefix = 'Multi Prefix'
 global.meki = '628981614707'
-global.footer = '𝙆𝙪𝙧𝙪𝙢𝙞 - 𝙈𝘿'
+global.footer = 'MFC - MD'
 //Isi Sesuai Namalu Buat Tambah Tqtq
 global.namalu = 'MFX' //Ubah nama kalian buat nambahin di tqtq bot
 global.footer1 = 'Jangan Spam Bot Tod.'
@@ -37,8 +37,8 @@ global.email = '-'
 global.region = 'Indonesia'
 global.link = 'nekopoi.care'
 global.sc = '-'
-global.packname = '"{\nAuthor: MFX"\n"Bot Number: -"\n"Bot Name:𝙆𝙪𝙧𝙪𝙢𝙞 - 𝙈𝘿"\n"Instagram: "\n}' 
-global.author = '𝙺𝚢𝚊𝚖𝚒𝚅𝚢𝚗' 
+global.packname = '"{\nAuthor: MFX"\n"Bot Number: -"\n"Bot Name:MFC - BOT"\n"Instagram: "\n}' 
+global.author = 'MFX' 
 global.sessionName = 'session'global.sessionName = 'session'
 
 global.prefa = ['#','!','/','']
@@ -62,7 +62,7 @@ global.mess = {
 }
     global.limitawal = {
     premium: "Unlimited",
-    free: 30,
+    free: 25,
     monayawal: 1000
 }
    global.rpg = {
